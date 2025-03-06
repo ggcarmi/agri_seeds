@@ -14,3 +14,4 @@ transformers>=4.30.0
 jupyter>=1.0.0
 notebook>=6.0.0
 plotly>=5.13.0
+streamlit>=1.22.0
